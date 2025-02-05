@@ -20,4 +20,6 @@ Foco em - Venda de produtos
 ### Ferramenta usada:
 - My SQL Workbench - https://dev.mysql.com/downloads/workbench/
 
-### Clique abaixo para ver: 
+### Projeto abaixo: 
+![Ecoomerce-AmandaBreidenbach](https://github.com/user-attachments/assets/54eb8011-bd01-4fb1-88db-79977a0b8ae1)
+
