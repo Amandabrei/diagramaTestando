@@ -1,4 +1,4 @@
-# Dio - Projeto de Amanda Breidenbach
+# Projeto de Amanda Breidenbach
 ## Projeto Conceitual de Banco de Dados E-commerce
 
 ### Escopo:
